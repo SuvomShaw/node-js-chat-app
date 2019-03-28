@@ -1,0 +1,11 @@
+{
+  "name": "chat-app-master",
+  "version": "1.0.0",
+  "description": "SERVER : steps: 1.cd server 2.npm install 3.npm run dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
